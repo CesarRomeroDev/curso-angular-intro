@@ -1,3 +1,5 @@
+//ENCADENAMIENTO OPCIONAL:
+
 interface Pasajero{
     nombre: string;
     hijos?: string[]
